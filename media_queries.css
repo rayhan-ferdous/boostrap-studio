@@ -1,16 +1,18 @@
-@media
+/* default css */
+{}
 
-/* mobile */
+
+@media /* mobile */
 (max-width:574px)
   
-/* tab */
+@media /* tab */
 (min-width: 575px) and (max-width:766px)
 
-/* medium */
+@media /* medium */
 (min-width: 767px) and (max-width:990px)
 
-/* laptop */
+@media /* laptop */
 (min-width: 991px) and (max-width:1198px)
   
-/* monitor */
+@media /* monitor */
 (min-width: 1199px)
