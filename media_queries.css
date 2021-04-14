@@ -1,9 +1,10 @@
-/* default css */
-{}
+
 
 
 @media /* mobile */
 (max-width:574px)
+  #ID {
+        }
   
 @media /* tab */
 (min-width: 575px) and (max-width:766px)
