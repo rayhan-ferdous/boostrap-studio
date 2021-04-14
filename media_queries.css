@@ -1,0 +1,16 @@
+@media
+
+/* mobile */
+(min-width: 340px) and (max-width:575px)
+  
+/* tab */
+(min-width: 576px) and (max-width:767px)
+
+/* medium */
+(min-width: 768px) and (max-width:991px)
+
+/* laptop */
+(min-width: 992px) and (max-width:1199px)
+  
+/* monitor */
+(min-width: 1200px)
